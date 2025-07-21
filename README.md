@@ -32,4 +32,9 @@ This example uses [mlabonne/FineTome-100k](https://huggingface.co/datasets/mlabo
 
 ---
 
+## 📌 Prerequisite
+
+- You will rewuire wandb api to track logging
+
+
 
