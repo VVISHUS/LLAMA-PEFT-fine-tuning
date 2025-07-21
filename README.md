@@ -37,6 +37,9 @@ This example uses [mlabonne/FineTome-100k](https://huggingface.co/datasets/mlabo
 - You will rewuire wandb api to track logging
 - Get it from - [WandB](https://wandb.ai) 
 
+## ⚡️ Next Steps:
+- Will implement PPO using trl library
+- Which includes training Reward Model first
 
 
 
